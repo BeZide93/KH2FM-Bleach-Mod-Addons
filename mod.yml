@@ -238,6 +238,10 @@ assets:
 - name: remastered/70landing.bar/-51.dds
   method: copy
   source:
+  - name: remastered/70landing.bar/-51.dds
+- name: remastered/70landing.bar/-52.dds
+  method: copy
+  source:
   - name: remastered/70landing.bar/-52.dds
 - name: remastered/70landing.bar/-53.dds
   method: copy
