@@ -23,6 +23,10 @@ assets:
   method: copy
   source:
   - name: 70landing.bar    
+- name: scripts/GoAWarp.lua
+  method: copy
+  source:
+  - name: scripts/GoAWarp.lua     
   
 # === Sephiroth Absolute Silhouette
 
