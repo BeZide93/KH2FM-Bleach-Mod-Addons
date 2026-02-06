@@ -255,6 +255,31 @@ assets:
   method: copy
   source:
   - name: libretto-hb.bar
+
+- name: msg/us/hb.bar
+  method: copy
+  source:
+  - name: msg/us/hb.bar
+
+- name: msg/sp/hb.bar
+  method: copy
+  source:
+  - name: msg/sp/hb.bar
+
+- name: msg/it/hb.bar
+  method: copy
+  source:
+  - name: msg/it/hb.bar
+
+- name: msg/gr/hb.bar
+  method: copy
+  source:
+  - name: msg/gr/hb.bar
+
+- name: msg/fr/hb.bar
+  method: copy
+  source:
+  - name: msg/fr/hb.bar
   
 - name: 00objentry.bin
   type: list
